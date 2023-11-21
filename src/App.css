@@ -1,0 +1,17 @@
+.container-fluid {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+}
+
+.logo {
+  width: 50px;
+}
+
+/* .box {
+  background-color: aliceblue;
+  padding: 150px;
+  color: #242424;
+  border-radius: 10px;
+} */

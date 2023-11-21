@@ -1,0 +1,30 @@
+{
+    "saludos": [
+      {"idioma": "español", "saludo": "¡Hola!"},
+      {"idioma": "inglés", "saludo": "Hello!"},
+      {"idioma": "francés", "saludo": "Bonjour!"},
+      {"idioma": "alemán", "saludo": "Hallo!"},
+      {"idioma": "italiano", "saludo": "Ciao!"},
+      {"idioma": "portugués", "saludo": "Olá!"},
+      {"idioma": "neerlandés", "saludo": "Hallo!"},
+      {"idioma": "ruso", "saludo": "Привет! (Privet!)"},
+      {"idioma": "chino mandarín", "saludo": "你好! (Nǐ hǎo!)"},
+      {"idioma": "japonés", "saludo": "こんにちは! (Konnichiwa!)"},
+      {"idioma": "coreano", "saludo": "안녕하세요! (Annyeonghaseyo!)"},
+      {"idioma": "árabe", "saludo": "مرحبا! (Marhaban!)"},
+      {"idioma": "hebreo", "saludo": "שלום! (Shalom!)"},
+      {"idioma": "hindi", "saludo": "नमस्ते! (Namaste!)"},
+      {"idioma": "bengalí", "saludo": "হ্যালো! (Hēlō!)"},
+      {"idioma": "urdu", "saludo": "ہیلو! (Hēlō!)"},
+      {"idioma": "turco", "saludo": "Merhaba!"},
+      {"idioma": "griego", "saludo": "Χαίρετε! (Chaírete!)"},
+      {"idioma": "polaco", "saludo": "Cześć!"},
+      {"idioma": "finlandés", "saludo": "Hei!"},
+      {"idioma": "sueco", "saludo": "Hej!"},
+      {"idioma": "noruego", "saludo": "Hei!"},
+      {"idioma": "danés", "saludo": "Hej!"},
+      {"idioma": "portugués brasileño", "saludo": "Oi!"},
+      {"idioma": "español latinoamericano", "saludo": "¡Hola!"}]
+    }
+    
+  
